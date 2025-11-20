@@ -1,115 +1,163 @@
-# 👋 Hello, I'm Solo-Dev27
+# 👋 Hello, I'm Solomon Ilegar
 
-## 🚀 Senior Laravel Developer | Government Financial Systems Specialist
+## 🚀 Full-Stack Developer | Java/Spring Boot & Laravel Specialist
 
-I'm a Full-Stack PHP Developer specializing in **Laravel** with extensive experience building mission-critical financial management systems for government institutions. My work has served **23+ government entities** with **500+ daily users**, achieving **60% efficiency improvements** and **98% accuracy** in financial operations.
+I'm a Full-Stack Developer with extensive experience building **enterprise-level financial and asset management systems** for government institutions. Currently developing modern solutions with **Java/Spring Boot**, with a proven track record of delivering mission-critical Laravel applications serving **23+ government entities** and **500+ daily users**.
 
 ---
 
-## 💼 Government Projects (PHP/Laravel - 2020-2024)
+## 💼 Current Project (Java/Spring Boot - 2024-Present)
 
-### 🏛️ Akwa Ibom State Government Projects
+### 🏢 AKS Asset Management & Maintenance System
+**Akwa Ibom State Government | Spring Boot, Spring Security, JPA/Hibernate**
 
-#### 1️⃣ Debt Management System (DMS)
-**Accountant General Office, Akwa Ibom State Government**
-- Comprehensive debt tracking and management platform
-- Real-time debt analytics and reporting
-- Automated payment scheduling and notifications
-- **Tech Stack:** Laravel, React, MySQL, Redis
+A comprehensive enterprise asset management platform providing complete visibility, control, and optimization of government assets while streamlining maintenance operations and ensuring regulatory compliance.
+
+#### 🎯 Core Features Implemented:
+- **Asset Management**: Complete lifecycle tracking from acquisition to disposal with QR/barcode support
+- **Work Order Management**: Automated work order generation, technician assignment, and real-time tracking
+- **Preventive Maintenance**: Time-based and usage-based scheduling with maintenance analytics
+- **Service Request System**: Multi-level approval workflows with priority management
+- **Role-Based Access Control**: 8 predefined roles (Super Admin, Asset Manager, Department Head, Technician, etc.)
+- **Advanced Reporting**: Asset inventory, maintenance cost analysis, ROI tracking, and custom reports
+- **Mobile-Optimized Interface**: Full technician dashboard with offline capability
+- **Calendar & Scheduling**: Drag-and-drop scheduling with resource availability checking
+
+#### 🛠️ Technical Implementation:
+- **Backend**: Spring Boot, Spring Security, Spring Data JPA, Hibernate
+- **Frontend**: React, JavaScript, responsive UI
+- **Database**: PostgreSQL with complex relational design
+- **Authentication**: JWT-based authentication with role-based permissions
+- **Reporting**: PDF/Excel export with data visualization
+- **Architecture**: RESTful API design, service layer pattern, repository pattern
+
+#### 📊 Key Modules:
+- Asset tracking and categorization with custom fields
+- Transfer and disposal management workflows
+- Technician dashboard with time tracking
+- Department-level asset visibility for MDA staff
+- Maintenance analytics (MTBF, MTTR, cost per asset)
+- Audit trail and comprehensive logging
+
+---
+
+## 💼 Production Projects (PHP/Laravel - 2020-2024)
+
+### 🏛️ Akwa Ibom State Government Financial Systems
+
+#### 1️⃣ Budget Performance Management System
+**Akwa Ibom State Government**
+- Budget planning, tracking, and performance analysis across multiple departments
+- Advanced analytics dashboards with real-time visualization
+- Multi-level approval workflows with hierarchical authorization
+- **Impact**: Reduced processing time by **60%**, improved accuracy from **75% to 98%**
+- **Tech Stack**: Laravel, React, PostgreSQL, Redis
 
 #### 2️⃣ Expenditure and Authorization Information Management System
 **Accountant General Office, Akwa Ibom State Government**
-- Multi-level approval workflows for government expenditures
+- Complex approval workflows for government expenditures
 - Role-based access control with hierarchical structures
-- Real-time financial reporting (PDF/Excel exports)
-- RESTful APIs for web and mobile platforms
-- **Tech Stack:** Laravel, React, PostgreSQL, Redis
+- Real-time financial reporting with PDF/Excel exports
+- RESTful APIs supporting web and mobile platforms
+- **Tech Stack**: Laravel, React, PostgreSQL, Redis
 
-#### 3️⃣ Staff Housing Scheme Information Management System
-**Ministry of Finance, Akwa Ibom State Government**
-- Housing allocation and management for government staff
-- Automated eligibility verification and processing
-- Document management and tracking system
-- **Tech Stack:** Laravel, React, MySQL
-
-#### 4️⃣ Budget Performance Management System
-**Akwa Ibom State Government**
-- Budget planning, tracking, and performance analysis
-- Multi-department budget monitoring
-- Advanced analytics and visualization dashboards
-- Reduced processing time by **60%**
-- Improved accuracy from **75% to 98%**
-- **Tech Stack:** Laravel, React, PostgreSQL, Redis
-
-#### 5️⃣ National Housing Fund Information Management System (NHF)
+#### 3️⃣ Debt Management System (DMS)
 **Accountant General Office, Akwa Ibom State Government**
-- National housing fund contribution tracking
-- Automated calculation and deduction management
+- Comprehensive debt tracking and management platform
+- Real-time debt analytics and automated reporting
+- Payment scheduling with automated notifications
+- **Tech Stack**: Laravel, React, MySQL, Redis
+
+#### 4️⃣ National Housing Fund Information Management System (NHF)
+**Accountant General Office, Akwa Ibom State Government**
+- National housing fund contribution tracking and management
+- Automated calculation and deduction processing
 - Comprehensive reporting for federal remittances
-- **Tech Stack:** Laravel, React, MySQL, Redis
+- **Tech Stack**: Laravel, React, MySQL, Redis
+
+#### 5️⃣ Staff Housing Scheme Information Management System
+**Ministry of Finance, Akwa Ibom State Government**
+- Housing allocation and eligibility management for government staff
+- Automated verification and processing workflows
+- Document management and tracking system
+- **Tech Stack**: Laravel, React, MySQL
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Backend
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=api&logoColor=white)
 
-### Frontend
+### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools & Technologies
-- Version Control: Git, GitHub
-- API Development: RESTful APIs
-- Authentication: JWT, OAuth
-- Reporting: PDF/Excel generation
-- Caching: Redis
-- Queue Management: Laravel Queue
-- Testing: PHPUnit
+### Frameworks & Tools
+- **Java**: Spring Boot, Spring Security, Spring Data JPA, Hibernate
+- **PHP**: Laravel, Eloquent ORM, Laravel Queue
+- **API Development**: RESTful APIs, JWT Authentication, OAuth
+- **Testing**: JUnit, PHPUnit, Integration Testing
+- **Version Control**: Git, GitHub
+- **Reporting**: PDF/Excel generation, data visualization
+- **Architecture**: MVC, Service Layer, Repository Pattern
 
 ---
 
 ## 📊 Key Achievements
 
-✅ **23+ Government Entities** served across multiple financial systems  
+✅ **Enterprise Asset Management System** - Building comprehensive Spring Boot application with 28+ feature modules  
+✅ **23+ Government Entities** served across multiple financial management systems  
 ✅ **500+ Daily Active Users** managing critical financial operations  
 ✅ **60% Reduction** in processing time for government transactions  
 ✅ **98% Accuracy Rate** (improved from 75%) in financial data management  
-✅ **Role-Based Access Control** with complex hierarchical structures  
-✅ **Real-Time Reporting** with PDF/Excel export capabilities  
-✅ **RESTful APIs** supporting both web and mobile platforms  
+✅ **Complex RBAC Implementation** - 8-tier role system with granular permissions  
+✅ **Real-Time Reporting** with PDF/Excel export and analytics dashboards  
+✅ **RESTful API Design** supporting web and mobile platforms  
 
 ---
 
 ## 🎯 Expertise Areas
 
-- **Financial Management Systems** - Budget, Expenditure, Debt Management
-- **Government Solutions** - Compliance-driven, secure, scalable systems
-- **Full-Stack Development** - Laravel backend + React frontend
-- **Database Design** - Complex relational databases (MySQL, PostgreSQL)
-- **API Development** - RESTful APIs for cross-platform integration
-- **Performance Optimization** - Redis caching, query optimization
-- **Security** - Role-based access, authentication, data protection
-- **Reporting & Analytics** - Real-time dashboards, export capabilities
+### Core Competencies
+- **Enterprise Application Development** - Asset Management, Financial Systems, Government Solutions
+- **Backend Architecture** - Spring Boot microservices, Laravel monoliths, RESTful API design
+- **Database Design** - Complex relational schemas, query optimization, data modeling
+- **Security Implementation** - JWT authentication, RBAC, data encryption, audit trails
+- **Workflow Automation** - Multi-level approval systems, automated notifications
+- **Reporting & Analytics** - Real-time dashboards, custom reports, data visualization
+
+### Domain Expertise
+- Financial Management Systems (Budget, Expenditure, Debt Management)
+- Asset Management & Maintenance Operations
+- Government & Public Sector Solutions
+- Compliance-driven, secure, scalable systems
+
+### Development Practices
+- Clean Code & SOLID Principles
+- Test-Driven Development (TDD)
+- Agile/Scrum Methodologies
+- Git Version Control
+- Code Review & Documentation
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to collaborating on interesting projects, especially in:
-- Financial management systems
-- Government solutions
-- Laravel/PHP development
-- Full-stack applications
+I'm open to opportunities and collaborations in:
+- **Java/Spring Boot Development** - Enterprise applications, microservices
+- **Backend Development** - RESTful APIs, database design, system architecture
+- **Financial Management Systems** - Budget, asset, and expenditure management
+- **Government Solutions** - Compliance-focused, secure applications
 
 ---
 
-⭐️ From [Solo-Dev27](https://github.com/Solo-Dev27)
+⭐️ From [Solomon Ilegar](https://github.com/Solo-Dev27)
