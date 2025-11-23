@@ -11,54 +11,42 @@ I'm a Full-Stack Developer with extensive experience building **enterprise-level
 ### 🏢 Enterprise Asset Management & Maintenance Platform
 **Government Institution | Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL**
 
-A comprehensive enterprise-grade asset management system providing complete visibility, control, and optimization of organizational assets while streamlining maintenance operations and ensuring regulatory compliance.
+A comprehensive enterprise asset management platform providing complete visibility, control, and optimization of government assets while streamlining maintenance operations and ensuring regulatory compliance.
 
 #### 🎯 Core Features Implemented:
 - **Asset Management**: Complete lifecycle tracking from acquisition to disposal with QR/barcode support
 - **Work Order Management**: Automated work order generation, technician assignment, and real-time tracking
 - **Preventive Maintenance**: Time-based and usage-based scheduling with maintenance analytics
 - **Service Request System**: Multi-level approval workflows with priority management
-- **Role-Based Access Control**: 8 predefined roles (Admin, Asset Manager, Department Head, Technician, etc.)
+- **Role-Based Access Control**: 8 predefined roles (Super Admin, Asset Manager, Department Head, Technician, etc.)
 - **Advanced Reporting**: Asset inventory, maintenance cost analysis, ROI tracking, and custom reports
 - **Mobile-Optimized Interface**: Full technician dashboard with offline capability
 - **Calendar & Scheduling**: Drag-and-drop scheduling with resource availability checking
 
 #### 🛠️ Technical Implementation:
-- **Backend**: Spring Boot 3.x, Spring Security, Spring Data JPA, Hibernate
-- **Frontend**: React, JavaScript ES6+, responsive UI
-- **Database**: PostgreSQL with complex relational design and optimized queries
-- **Authentication**: JWT-based authentication with role-based permissions and refresh tokens
-- **Caching**: Redis for session management and performance optimization
-- **Reporting**: PDF/Excel export with data visualization and analytics
-- **Architecture**: RESTful API design, service layer pattern, repository pattern, microservices-ready
-- **Testing**: JUnit 5, Mockito, integration tests with 85%+ coverage
+- **Backend**: Spring Boot, Spring Security, Spring Data JPA, Hibernate
+- **Frontend**: React, JavaScript, responsive UI
+- **Database**: PostgreSQL with complex relational design
+- **Authentication**: JWT-based authentication with role-based permissions
+- **Reporting**: PDF/Excel export with data visualization
+- **Architecture**: RESTful API design, service layer pattern, repository pattern
 
-#### 📊 Key Modules (28+ Feature Modules):
-- Asset tracking and categorization with custom fields and metadata
-- Transfer and disposal management with approval workflows
-- Technician dashboard with time tracking and job assignments
-- Department-level asset visibility and reporting
-- Maintenance analytics (MTBF, MTTR, cost per asset, downtime tracking)
-- Comprehensive audit trail and activity logging
-- Automated notifications and email alerts
-- Budget tracking and cost allocation
+#### 📊 Key Modules:
+- Asset tracking and categorization with custom fields
+- Transfer and disposal management workflows
+- Technician dashboard with time tracking
+- Department-level asset visibility for organizational staff
+- Maintenance analytics (MTBF, MTTR, cost per asset)
+- Audit trail and comprehensive logging
 
-#### 💼 Business Impact:
-- Serves **500+ daily users** across multiple departments
-- Manages **10,000+ assets** with complete traceability
-- Reduces manual processing time by **70%**
-- Improves asset utilization by **45%**
-- Enables data-driven maintenance decisions
-- Ensures regulatory compliance and audit readiness
-  
 ---
 
 ## 💼 Production Projects (PHP/Laravel - 2020-2024)
 
-### 🏛️ Akwa Ibom State Government Financial Systems
+### 🏛️ Government Financial Management Systems
 
 #### 1️⃣ Budget Performance Management System
-**Akwa Ibom State Government**
+**State Government Institution**
 - Budget planning, tracking, and performance analysis across multiple departments
 - Advanced analytics dashboards with real-time visualization
 - Multi-level approval workflows with hierarchical authorization
@@ -66,7 +54,7 @@ A comprehensive enterprise-grade asset management system providing complete visi
 - **Tech Stack**: Laravel, React, PostgreSQL, Redis
 
 #### 2️⃣ Expenditure and Authorization Information Management System
-**Accountant General Office, Akwa Ibom State Government**
+**Finance Department, State Government**
 - Complex approval workflows for government expenditures
 - Role-based access control with hierarchical structures
 - Real-time financial reporting with PDF/Excel exports
@@ -74,21 +62,21 @@ A comprehensive enterprise-grade asset management system providing complete visi
 - **Tech Stack**: Laravel, React, PostgreSQL, Redis
 
 #### 3️⃣ Debt Management System (DMS)
-**Accountant General Office, Akwa Ibom State Government**
+**Finance Department, State Government**
 - Comprehensive debt tracking and management platform
 - Real-time debt analytics and automated reporting
 - Payment scheduling with automated notifications
 - **Tech Stack**: Laravel, React, MySQL, Redis
 
 #### 4️⃣ National Housing Fund Information Management System (NHF)
-**Accountant General Office, Akwa Ibom State Government**
+**Finance Department, State Government**
 - National housing fund contribution tracking and management
 - Automated calculation and deduction processing
 - Comprehensive reporting for federal remittances
 - **Tech Stack**: Laravel, React, MySQL, Redis
 
 #### 5️⃣ Staff Housing Scheme Information Management System
-**Ministry of Finance, Akwa Ibom State Government**
+**Finance Ministry, State Government**
 - Housing allocation and eligibility management for government staff
 - Automated verification and processing workflows
 - Document management and tracking system
